@@ -112,9 +112,6 @@ class ComputerEngineer:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&custom_title=Augustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ---
 
 ## 🎯 Current Focus
