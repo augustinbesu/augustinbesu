@@ -125,8 +125,7 @@ class ComputerEngineer:
 |:---|:---|
 | 🎓 **Academic** | Finishing Masters in Computer Engineering |
 | 🔬 **Research** | Discovering innovative solutions to challenging problems |
-| 💡 **Development** | Creating elegant solutions to complex technical challenges |
-| 🚀 **Innovation** | Exploring cutting-edge technologies and methodologies |
+| 🚀 **Development** | Exploring cutting-edge technologies and methodologies |
 
 </div>
 
