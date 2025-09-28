@@ -88,13 +88,32 @@ class ComputerEngineer:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustinbesu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbesu&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=augustinbesu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbesu&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustinbesu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustinbesu&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&custom_title=Augustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -131,14 +150,6 @@ class ComputerEngineer:
 | Container Orchestration | Penetration Testing | Monitoring & Observability |
 | Microservices Design | Security Automation | Performance Optimization |
 
-</div>
-
----
-
-## 📚 Learning Journey
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
