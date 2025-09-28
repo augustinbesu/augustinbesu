@@ -137,10 +137,3 @@ class ComputerEngineer:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" />
 </div>
 
----
-
-<div align="center">
-  <i>"Building the future through intelligent systems and secure architectures"</i>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/augustinbesu/count.svg)
-</div>
