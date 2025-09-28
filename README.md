@@ -1,11 +1,15 @@
-# Hi there, I'm Augustin! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Hi%20there,%20I'm%20Augustin!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20|%20Problem%20Solver%20|%20Innovation%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Big+Data+%26+AI+Specialist;IoT+%26+CyberSec+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=augustinbesu&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=augustinbesu&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/augustinbesu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen?style=for-the-badge" alt="Focus" />
 </div>
 
 ---
@@ -94,10 +98,16 @@ class ComputerEngineer:
 
 ## 🎯 Current Focus
 
-- 🎓 **Finishing Masters** in Computer Engineering
-- 🔬 **Research Focus**: Discovering innovative solutions to challenging problems
-- 💡 **Development**: Creating and implementing solutions to complex technical challenges
-- 🚀 **Innovation**: Exploring cutting-edge technologies and methodologies
+<div align="center">
+
+| 🎯 **Focus Area** | 📋 **Details** |
+|:---|:---|
+| 🎓 **Academic** | Finishing Masters in Computer Engineering |
+| 🔬 **Research** | Discovering innovative solutions to challenging problems |
+| 💡 **Development** | Creating elegant solutions to complex technical challenges |
+| 🚀 **Innovation** | Exploring cutting-edge technologies and methodologies |
+
+</div>
 
 ---
 
