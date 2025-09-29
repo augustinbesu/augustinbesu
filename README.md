@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class ComputerEngineer:
@@ -42,7 +42,7 @@ class ComputerEngineer:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -85,7 +85,7 @@ class ComputerEngineer:
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <table>
@@ -114,7 +114,7 @@ class ComputerEngineer:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -128,7 +128,7 @@ class ComputerEngineer:
 
 ---
 
-## 🏆 Expertise Areas
+## Expertise Areas
 
 <div align="center">
 
