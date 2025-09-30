@@ -132,10 +132,8 @@ class ComputerEngineer:
 | :----------------------------: | :-----------------------------------: |
 |      Deep Learning Models      |        Real-time Data Pipelines       |
 |         Computer Vision        |         Distributed Computing         |
-|        NLP & Text Mining       |         Data Lake Architecture        |
+|        NLP & Text Mining       | Cloud-based Data Storage & Processing |
 |    MLOps & Model Deployment    |           Stream Processing           |
-|                                | Cloud-based Data Storage & Processing |
-|                                |    Data Pipeline Automation / CI/CD   |
 
 </div>
 
