@@ -90,12 +90,8 @@ class ComputerEngineer:
 <div align="center">
 <table>
 <tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=augustinbesu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-
-</td>
-<td width="50%">
+<td width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbesu&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
