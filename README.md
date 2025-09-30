@@ -132,19 +132,14 @@ class ComputerEngineer:
 
 <div align="center">
 
-| 🤖 **Artificial Intelligence** | 📊 **Big Data Engineering** | 🌐 **IoT Systems** |
-|:---:|:---:|:---:|
-| Deep Learning Models | Real-time Data Pipelines | Sensor Networks |
-| Computer Vision | Distributed Computing | Industrial IoT |
-| NLP & Text Mining | Data Lake Architecture | Protocol Implementation |
-| MLOps & Model Deployment | Stream Processing | Device Integration |
-
-| ☁️ **Cloud Architecture** | 🔒 **Cybersecurity** | 🚀 **DevOps** |
-|:---:|:---:|:---:|
-| Multi-cloud Strategies | Network Security | CI/CD Pipelines |
-| Serverless Computing | Threat Analysis | Infrastructure as Code |
-| Container Orchestration | Penetration Testing | Monitoring & Observability |
-| Microservices Design | Security Automation | Performance Optimization |
+| 🤖 **Artificial Intelligence** |      📊 **Big Data Engineering**      |
+| :----------------------------: | :-----------------------------------: |
+|      Deep Learning Models      |        Real-time Data Pipelines       |
+|         Computer Vision        |         Distributed Computing         |
+|        NLP & Text Mining       |         Data Lake Architecture        |
+|    MLOps & Model Deployment    |           Stream Processing           |
+|                                | Cloud-based Data Storage & Processing |
+|                                |    Data Pipeline Automation / CI/CD   |
 
 </div>
 
