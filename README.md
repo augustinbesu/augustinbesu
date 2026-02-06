@@ -101,10 +101,6 @@ class ComputerEngineer:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=augustinbesu&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&custom_title=Augustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" />
 </div>
 
