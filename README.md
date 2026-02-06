@@ -87,7 +87,7 @@ class ComputerEngineer:
 
 ## GitHub Analytics
 
-<img src="https://komarev.com/ghpvc/?username=augustinbesu&style=flat-square&color=00D9FF&label=Profile%20Views" alt="Profile Views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&custom_title=Augustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
