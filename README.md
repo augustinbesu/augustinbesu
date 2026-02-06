@@ -101,7 +101,7 @@ class ComputerEngineer:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=augustinbesu&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=augustinbesu&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
