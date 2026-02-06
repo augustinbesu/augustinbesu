@@ -87,24 +87,6 @@ class ComputerEngineer:
 
 ## GitHub Analytics
 
-<div align="center">
-
-<!-- Top Languages Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbesu&layout=pie&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages Pie Chart"/>
-
-<br><br>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=augustinbesu&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" alt="GitHub Stats"/>
-
-<br><br>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=augustinbesu&custom_title=Augustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Activity Graph"/>
-
-<br><br>
-
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=augustinbesu&style=flat-square&color=00D9FF&label=Profile%20Views" alt="Profile Views" />
 
 </div>
