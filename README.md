@@ -94,19 +94,6 @@ class ComputerEngineer:
 
 ---
 
-## Current Focus
-
-<div align="center">
-
-| 🎯 **Focus Area** | 📋 **Details** |
-|:---|:---|
-| 🎓 **Academic** | Finishing Masters in Computer Engineering |
-| 🔬 **Research** | Discovering innovative solutions to challenging problems |
-| 🚀 **Development** | Exploring cutting-edge technologies and methodologies |
-
-</div>
-
----
 
 ## Expertise Areas
 
